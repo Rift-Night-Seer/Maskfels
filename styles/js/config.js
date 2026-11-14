@@ -17,7 +17,7 @@ let charadex = {};
 charadex.site = {
   title: "Maskfels",
   url: "https://rift-night-seer.github.io/Maskfels/",
-  description: `A tool for organizing small ARPGs and species.`
+  description: `Website for keeping player and character info on the Maskfels closed species.`
 }
 
 /* ==================================================================== */
